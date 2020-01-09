@@ -1,0 +1,6 @@
+[submodule "docsy"]
+	path = docsy
+	url = https://github.com/google/docsy
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
